@@ -119,6 +119,8 @@ if (process.env.NODE_ENV !== "production") {
   });
 }
 
-app.listen(PORT, "0.0.0.0", () => {
+//app.listen(PORT, "0.0.0.0", () => {
+// โค้ดสำหรับรันบน Vercel
+export default app;
   console.log(`Server running on http://localhost:${PORT}`);
 });
