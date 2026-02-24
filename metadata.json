@@ -1,0 +1,5 @@
+{
+  "name": "Mtech Smart Power",
+  "description": "Smart control and monitoring system for industrial charcoal kilns, featuring real-time temperature tracking, material yield calculation, comprehensive performance dashboards, and a secure local SQLite-backed authentication system.",
+  "requestFramePermissions": []
+}
